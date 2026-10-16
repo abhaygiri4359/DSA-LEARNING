@@ -1,5 +1,5 @@
-void main()
-{
-    int a=10;
-    System.out.println(A);
-}
+soutnsjnds
+kmasodmsa
+asjnsaj
+asjkd asjk]
+sajkmnsa
