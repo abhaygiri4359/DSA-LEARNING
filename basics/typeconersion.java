@@ -5,9 +5,9 @@ public class typeconersion {
         short num = newnum;
         System.out.println(num);
 
-        long r=12345678999;
-        System.out.println(r);
-        int x= (int)r;
-        System.out.println(x);
+       // long r=12345678999;
+       // System.out.println(r);
+       // int x= (int)r;
+      //  System.out.println(x);
     }
 }
