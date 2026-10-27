@@ -15,6 +15,15 @@ public class operators {
         System.out.println(d!=r);
         System.out.println(d||r);
 
+        //short hand operator
+        x+=300;
+        System.out.println(x);
+        x*=4;
+        System.out.println(x);
+        x-=500;
+        System.out.println(x);
+
+
 
 
     }
