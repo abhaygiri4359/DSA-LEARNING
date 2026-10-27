@@ -12,5 +12,11 @@ public class inputinjava {
         sc.close();
 
 
+
+
+        // java garbage collector
+
+
+
     }
 }
