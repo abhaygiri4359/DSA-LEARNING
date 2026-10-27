@@ -1,3 +1,5 @@
+import jdk.swing.interop.SwingInterOpUtils;
+
 public class operators {
     static void main() {
         //arithmatic operator
@@ -22,6 +24,20 @@ public class operators {
         System.out.println(x);
         x-=500;
         System.out.println(x);
+
+
+        // unary increment decreament operator
+        int a=2;
+        int b=+a;
+        System.out.println(a);
+        b=-a;
+        System.out.println(b);
+        a++;
+        System.out.println(a);
+        a--;
+        System.out.println(a);
+
+        System.out.println(a);
 
 
 
