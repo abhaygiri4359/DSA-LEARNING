@@ -6,7 +6,10 @@ public class inputinjava {
         Scanner sc = new Scanner(System.in);
         System.out.println("inter the number");
         int first=sc.nextInt();
-        System.out.println(first);
+        System.out.println("enter the second num");
+        int second=sc.nextInt();
+        System.out.println(first+second);
+        sc.close();
 
 
     }
