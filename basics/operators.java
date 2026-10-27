@@ -8,6 +8,14 @@ public class operators {
         System.out.println(x*y);
         System.out.println(x/y);
         System.out.println(x%y);
+       // logical operator
+
+         boolean d=true,r=false;
+        System.out.println(d&&r);
+        System.out.println(d!=r);
+        System.out.println(d||r);
+
+
 
     }
 }
