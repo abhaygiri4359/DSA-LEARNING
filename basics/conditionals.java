@@ -56,5 +56,8 @@ public class conditionals {
                     } else {
                         System.out.println("Upgrade to Premium");
                     }
+        int streakday=49;
+        String a=(streakday>=30)?"consistence":"inconsistence";
+        System.out.println(a);
     }
 }
