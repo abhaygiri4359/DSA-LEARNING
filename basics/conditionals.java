@@ -8,5 +8,8 @@ public class conditionals {
        int age=34;
        if(age>=18)
            System.out.println("you are eligible to vote");
+       else {
+           System.out.println("you are not eligible");
+       }
     }
 }
