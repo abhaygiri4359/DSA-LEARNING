@@ -59,5 +59,6 @@ public class conditionals {
         int streakday=49;
         String a=(streakday>=30)?"consistence":"inconsistence";
         System.out.println(a);
+
     }
 }
