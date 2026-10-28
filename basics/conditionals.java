@@ -42,5 +42,19 @@ public class conditionals {
        {
            System.out.println("wrong number");
        }
+        boolean hasSubscription = true;
+              int solvedProblems = 220;
+
+                if (hasSubscription) {
+
+                        if (solvedProblems >= 200) {
+                                System.out.println("Unlock Advanced Sheet");
+                            } else {
+                                System.out.println("Practice More Problems");
+                            }
+
+                    } else {
+                        System.out.println("Upgrade to Premium");
+                    }
     }
 }
