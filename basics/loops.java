@@ -9,5 +9,9 @@ public class loops {
             System.out.println(j);
         }
 
+
+
+
+
     }
 }
