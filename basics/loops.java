@@ -12,6 +12,6 @@ public class loops {
 
 
 
-
+    for (int i=0)
     }
 }
